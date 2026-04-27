@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pypdf
+sentence-transformers
+scikit-learn
+groq
+python-dotenv
+numpy
