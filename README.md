@@ -116,6 +116,7 @@ This ensures answers are always document-grounded.
 ---
 
 # Features
+
  📄 PDF upload
  🧠 AI-powered Q&A
  📍 Page number reference
